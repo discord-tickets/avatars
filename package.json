@@ -1,0 +1,28 @@
+{
+  "name": "discord-tickets-avatars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/discord-tickets/avatars.git"
+  },
+  "author": "eartharoid",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/discord-tickets/avatars/issues"
+  },
+  "homepage": "https://github.com/discord-tickets/avatars#readme",
+  "devDependencies": {
+    "eslint": "^7.26.0",
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "leekslazylogger-express": "^0.2.1",
+    "request": "^2.88.2"
+  }
+}
