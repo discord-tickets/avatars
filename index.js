@@ -1,5 +1,5 @@
 const DISCORD_BASE_URL = 'https://cdn.discordapp.com/avatars';
-const PORT = process.env.PORT ?? 80;
+const PORT = process.env.PORT || 80;
 
 const fs = require('fs');
 const fsp = fs.promises;
